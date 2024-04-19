@@ -1,5 +1,6 @@
 RENCANA KERJA FERPROG
 - Web Developer
  * Di indonesia
+ * Di America
 - Programmer
 - Sovtwer Engenering
